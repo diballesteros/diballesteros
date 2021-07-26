@@ -6,9 +6,10 @@ I'm interested in collaborating in all sorts of client-side projects!
 # 🌱 Currently
 I'm currently working on a Pokemon related web app called a nuzlocke tracker!
 
-# 🐱‍👤 Web Page
+# 🐱‍👤 Web Pages
 
-[Relatable Code](https://relatablecode.com)
+* [Relatable Code](https://relatablecode.com)
+* [Nuzlocke Tracker](https://nuzlocke.netlify.app)
 
 # 📫 Contact
 
