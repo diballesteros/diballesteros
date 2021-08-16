@@ -1,10 +1,10 @@
 # 👀 About
-Hi, my name is Diego Ballesteros and I'm a front end developer!
+Hi, my name is Diego Ballesteros and I'm a senior front end developer!
 
-I'm interested in collaborating in all sorts of client-side projects!
+I'm interested in collaborating in all sorts of client-side projects.
 
 # 🌱 Currently
-I'm currently working on a Pokemon related web app called a nuzlocke tracker!
+I'm currently working on a Pokemon related web app called a Nuzlocke Tracker!
 
 # 🐱‍👤 Web Pages
 
@@ -13,4 +13,4 @@ I'm currently working on a Pokemon related web app called a nuzlocke tracker!
 
 # 📫 Contact
 
-Through GitHub directly!
+Through GitHub directly or through my [website](https://relatablecode.com/contact-me/).
