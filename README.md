@@ -1,7 +1,7 @@
 # 👀 About
 Hi, my name is Diego Ballesteros and I'm a senior front end developer!
 
-I'm interested in collaborating in all sorts of client-side projects.
+I'm interested in collaborating on all sorts of web development projects.
 
 # 🌱 Currently
 I'm currently working on a Pokemon related web app called a Nuzlocke Tracker!
