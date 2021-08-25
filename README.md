@@ -1,5 +1,5 @@
 # 👀 About
-I'm Diego, a Senior Frontend developer from <img src="https://image.flaticon.com/icons/png/512/197/197575.png" width="13"/> <b>Bogotá, Colombia</b>
+I'm Diego, a Senior Frontend Developer from <img src="https://image.flaticon.com/icons/png/512/197/197575.png" width="13"/> <b>Bogotá, Colombia</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
