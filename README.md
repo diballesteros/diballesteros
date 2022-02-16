@@ -27,11 +27,11 @@ Learning Rust!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Semantic HTML explained and how to use it](https://medium.com/@diballesteros/semantic-html-explained-and-how-to-use-it-3ef9e55b1846?source=rss-d38c5015f77c------2)
 - [Supercharge your app with runtime type-checking using ZOD](https://medium.com/@diballesteros/supercharge-your-app-with-runtime-type-checking-using-zod-55590509da0b?source=rss-d38c5015f77c------2)
 - [How to use three.js in a React app to render a 3D model](https://medium.com/@diballesteros/how-to-use-three-js-in-a-react-app-to-render-a-3d-model-4a1d31ead00c?source=rss-d38c5015f77c------2)
 - [How to make more detailed error messages with Sentry](https://medium.com/@diballesteros/how-to-make-more-detailed-error-messages-with-sentry-11a637fa55ca?source=rss-d38c5015f77c------2)
 - [How to set up localization with react-i18next](https://medium.com/@diballesteros/how-to-set-up-localization-with-react-i18next-f283f7339f36?source=rss-d38c5015f77c------2)
-- [How to use REM units with react-window with a custom hook](https://medium.com/@diballesteros/how-to-use-rem-units-with-react-window-with-a-custom-hook-3cffe532b25a?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Pages
