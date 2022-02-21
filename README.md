@@ -22,7 +22,7 @@ I'm Diego, a Senior Frontend Developer from <img src="https://image.flaticon.com
 </p>
 
 # 🌱 Currently
-I'm currently working on a Pokemon related web app called a Nuzlocke Tracker!
+Currently working on a Crossposting service.
 Learning Rust!
 
 # Blog posts
