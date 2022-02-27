@@ -27,11 +27,11 @@ Learning Rust!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My experience after doing 20 Coffee Chats in one weekend](https://medium.com/@diballesteros/my-experience-after-doing-20-coffee-chats-in-one-weekend-6ae278fd8625?source=rss-d38c5015f77c------2)
 - [How to do a thorough accessibility review for your website](https://medium.com/@diballesteros/how-to-do-a-thorough-accessibility-review-for-your-website-bcdad915c6ed?source=rss-d38c5015f77c------2)
 - [Important takeaways from the State of JavaScript](https://medium.com/@diballesteros/important-takeaways-from-the-state-of-javascript-ca60f20a2dfa?source=rss-d38c5015f77c------2)
 - [Semantic HTML explained and how to use it](https://blog.devgenius.io/semantic-html-explained-and-how-to-use-it-3ef9e55b1846?source=rss-d38c5015f77c------2)
 - [Supercharge your app with runtime type-checking using ZOD](https://medium.com/@diballesteros/supercharge-your-app-with-runtime-type-checking-using-zod-55590509da0b?source=rss-d38c5015f77c------2)
-- [How to use three.js in a React app to render a 3D model](https://medium.com/@diballesteros/how-to-use-three-js-in-a-react-app-to-render-a-3d-model-4a1d31ead00c?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Pages
