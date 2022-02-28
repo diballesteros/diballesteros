@@ -34,10 +34,9 @@ Learning Rust!
 - [Supercharge your app with runtime type-checking using ZOD](https://medium.com/@diballesteros/supercharge-your-app-with-runtime-type-checking-using-zod-55590509da0b?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
-# 🐱‍👤 Web Pages
+# 🐱‍👤 Web Page
 
 * [Relatable Code](https://relatablecode.com)
-* [Nuzlocke Tracker](https://nuzlocke.netlify.app)
 
 # 📫 Contact me
 
