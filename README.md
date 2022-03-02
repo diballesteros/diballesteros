@@ -27,11 +27,11 @@ Learning Rust!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Step-By-Step guide for the first time Open Source contribution](https://medium.com/@diballesteros/step-by-step-guide-for-the-first-time-open-source-contribution-45ae1d4cbb1c?source=rss-d38c5015f77c------2)
 - [My experience after doing 20 Coffee Chats in one weekend](https://medium.com/@diballesteros/my-experience-after-doing-20-coffee-chats-in-one-weekend-6ae278fd8625?source=rss-d38c5015f77c------2)
 - [How to do a thorough accessibility review for your website](https://medium.com/@diballesteros/how-to-do-a-thorough-accessibility-review-for-your-website-bcdad915c6ed?source=rss-d38c5015f77c------2)
 - [Important takeaways from the State of JavaScript](https://medium.com/@diballesteros/important-takeaways-from-the-state-of-javascript-ca60f20a2dfa?source=rss-d38c5015f77c------2)
 - [Semantic HTML explained and how to use it](https://blog.devgenius.io/semantic-html-explained-and-how-to-use-it-3ef9e55b1846?source=rss-d38c5015f77c------2)
-- [Supercharge your app with runtime type-checking using ZOD](https://medium.com/@diballesteros/supercharge-your-app-with-runtime-type-checking-using-zod-55590509da0b?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Page
