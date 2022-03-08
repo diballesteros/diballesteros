@@ -27,7 +27,7 @@ Learning Rust!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Step by Step guide on building a custom React hook in Typescript](https://medium.com/@diballesteros/step-by-step-guide-on-building-a-custom-react-hook-in-typescript-167e243045a4?source=rss-d38c5015f77c------2)
+- [Step by Step guide on building a custom React hook in Typescript](https://blog.bitsrc.io/step-by-step-guide-on-building-a-custom-react-hook-in-typescript-167e243045a4?source=rss-d38c5015f77c------2)
 - [Step-By-Step guide for the first time Open Source contribution](https://medium.com/@diballesteros/step-by-step-guide-for-the-first-time-open-source-contribution-45ae1d4cbb1c?source=rss-d38c5015f77c------2)
 - [My experience after doing 20 Coffee Chats in one weekend](https://medium.com/@diballesteros/my-experience-after-doing-20-coffee-chats-in-one-weekend-6ae278fd8625?source=rss-d38c5015f77c------2)
 - [How to do a thorough accessibility review for your website](https://medium.com/@diballesteros/how-to-do-a-thorough-accessibility-review-for-your-website-bcdad915c6ed?source=rss-d38c5015f77c------2)
