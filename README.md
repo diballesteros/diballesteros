@@ -27,11 +27,11 @@ Learning Rust!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make your website more accessible with these Responsive Design tips](https://medium.com/@diballesteros/make-your-website-more-accessible-with-these-responsive-design-tips-dee454cf0d36?source=rss-d38c5015f77c------2)
 - [How to escape tutorial hell — the 100% fallacy](https://medium.com/@diballesteros/how-to-escape-tutorial-hell-the-100-fallacy-f36ed540622?source=rss-d38c5015f77c------2)
 - [How to do an accessibility review for your website: Font](https://medium.com/@diballesteros/how-to-do-an-accessibility-review-for-your-website-font-3a404eabd8ab?source=rss-d38c5015f77c------2)
 - [Building a Custom React Hook in TypeScript](https://blog.bitsrc.io/step-by-step-guide-on-building-a-custom-react-hook-in-typescript-167e243045a4?source=rss-d38c5015f77c------2)
 - [Step-By-Step guide for the first time Open Source contribution](https://medium.com/@diballesteros/step-by-step-guide-for-the-first-time-open-source-contribution-45ae1d4cbb1c?source=rss-d38c5015f77c------2)
-- [My experience after doing 20 Coffee Chats in one weekend](https://medium.com/@diballesteros/my-experience-after-doing-20-coffee-chats-in-one-weekend-6ae278fd8625?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Page
