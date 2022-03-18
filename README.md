@@ -23,7 +23,7 @@ I'm Diego, a Senior Frontend Developer from <img src="https://image.flaticon.com
 
 # 🌱 Currently
 Currently working on a Crossposting service.
-Learning Rust!
+Learning Electron!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
