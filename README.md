@@ -27,11 +27,11 @@ Learning Electron!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is imposter syndrome? And how I deal with it](https://medium.com/@diballesteros/what-is-imposter-syndrome-and-how-i-deal-with-it-cef987200cd?source=rss-d38c5015f77c------2)
 - [How to create more accessible media with these tips](https://medium.com/@diballesteros/how-to-create-more-accessible-media-with-these-tips-300669a2eb1a?source=rss-d38c5015f77c------2)
 - [Make your website more accessible with these Responsive Design tips](https://medium.com/@diballesteros/make-your-website-more-accessible-with-these-responsive-design-tips-dee454cf0d36?source=rss-d38c5015f77c------2)
 - [How to escape tutorial hell — the 100% fallacy](https://medium.com/@diballesteros/how-to-escape-tutorial-hell-the-100-fallacy-f36ed540622?source=rss-d38c5015f77c------2)
 - [How to do an accessibility review for your website: Font](https://medium.com/@diballesteros/how-to-do-an-accessibility-review-for-your-website-font-3a404eabd8ab?source=rss-d38c5015f77c------2)
-- [Building a Custom React Hook in TypeScript](https://blog.bitsrc.io/step-by-step-guide-on-building-a-custom-react-hook-in-typescript-167e243045a4?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Page
