@@ -27,11 +27,11 @@ Learning Electron!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quickly publish and install a library with GitHub Packages](https://medium.com/@diballesteros/quickly-publish-and-install-a-library-with-github-packages-2db619fd832c?source=rss-d38c5015f77c------2)
 - [How to quickly sort imports with Prettier](https://medium.com/@diballesteros/how-to-quickly-sort-imports-with-prettier-14f82b16a956?source=rss-d38c5015f77c------2)
 - [How to supercharge your HTML link tag with these four tricks](https://medium.com/@diballesteros/how-to-supercharge-your-html-link-tag-with-these-four-tricks-e8a194446698?source=rss-d38c5015f77c------2)
 - [What is imposter syndrome? And how I deal with it](https://medium.com/@diballesteros/what-is-imposter-syndrome-and-how-i-deal-with-it-cef987200cd?source=rss-d38c5015f77c------2)
 - [How to create more accessible media with these tips](https://levelup.gitconnected.com/how-to-create-more-accessible-media-with-these-tips-300669a2eb1a?source=rss-d38c5015f77c------2)
-- [Make your website more accessible with these Responsive Design tips](https://medium.com/@diballesteros/make-your-website-more-accessible-with-these-responsive-design-tips-dee454cf0d36?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Page
