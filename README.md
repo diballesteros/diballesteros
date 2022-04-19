@@ -27,11 +27,11 @@ Learning Electron!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to migrate Create-React-App to React version 18](https://medium.com/@diballesteros/how-to-migrate-create-react-app-to-react-version-18-6ce5060da224?source=rss-d38c5015f77c------2)
 - [Rome vs Prettier. Trying out the new formatter on the block](https://blog.devgenius.io/rome-vs-prettier-trying-out-the-new-formatter-on-the-block-9b3424d315dc?source=rss-d38c5015f77c------2)
 - [Say goodbye to Yarn and say hello to PNPM](https://medium.com/@diballesteros/say-goodbye-to-yarn-and-say-hello-to-pnpm-30deed5670b2?source=rss-d38c5015f77c------2)
 - [Quickly publish and install a library with GitHub Packages](https://blog.devgenius.io/quickly-publish-and-install-a-library-with-github-packages-2db619fd832c?source=rss-d38c5015f77c------2)
 - [How to quickly sort imports with Prettier](https://medium.com/@diballesteros/how-to-quickly-sort-imports-with-prettier-14f82b16a956?source=rss-d38c5015f77c------2)
-- [How to supercharge your HTML link tag with these four tricks](https://medium.com/@diballesteros/how-to-supercharge-your-html-link-tag-with-these-four-tricks-e8a194446698?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Page
