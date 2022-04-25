@@ -27,11 +27,11 @@ Learning Electron!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing a React Application: Setting everything up](https://medium.com/@diballesteros/testing-a-react-application-setting-everything-up-ab474e7b6c5f?source=rss-d38c5015f77c------2)
 - [Testing a React Application: The Modern Approach](https://levelup.gitconnected.com/testing-a-react-application-the-modern-approach-9f9ccef4dae5?source=rss-d38c5015f77c------2)
 - [How to migrate Create-React-App to React version 18](https://levelup.gitconnected.com/how-to-migrate-create-react-app-to-react-version-18-6ce5060da224?source=rss-d38c5015f77c------2)
 - [Rome vs Prettier. Trying out the new formatter on the block](https://blog.devgenius.io/rome-vs-prettier-trying-out-the-new-formatter-on-the-block-9b3424d315dc?source=rss-d38c5015f77c------2)
 - [Say goodbye to Yarn and say hello to PNPM](https://medium.com/@diballesteros/say-goodbye-to-yarn-and-say-hello-to-pnpm-30deed5670b2?source=rss-d38c5015f77c------2)
-- [Quickly publish and install a library with GitHub Packages](https://blog.devgenius.io/quickly-publish-and-install-a-library-with-github-packages-2db619fd832c?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Page
