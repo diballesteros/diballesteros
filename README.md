@@ -1,5 +1,5 @@
 # 👀 About
-I'm Diego, a Senior Frontend Developer from <img src="https://image.flaticon.com/icons/png/512/197/197575.png" width="13"/> <b>Bogotá, Colombia</b>
+I'm Diego, a Senior Frontend Developer from <b>Bogotá, Colombia</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -21,10 +21,6 @@ I'm Diego, a Senior Frontend Developer from <img src="https://image.flaticon.com
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
-# 🌱 Currently
-Currently working on a Crossposting service.
-Learning Electron!
-
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Testing a React Application: What is Vitest?](https://towardsdev.com/testing-a-react-application-what-is-vitest-cef45ce0e75f?source=rss-d38c5015f77c------2)
@@ -40,7 +36,7 @@ Learning Electron!
 
 # 📫 Contact me
 
-Through any of the socials below or directly through my [website](https://relatablecode.com/contact-me/).
+Through any of the socials below.
 
 <p><a href="https://github.com/diballesteros/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/relatablecoder" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/diego-ballesteros-9468a7136/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
