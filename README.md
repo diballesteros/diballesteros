@@ -21,7 +21,7 @@ I'm Diego, a Senior Frontend Developer from <b>Bogotá, Colombia</b>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
-# Blog posts
+# ✍ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Testing a React Application: What is Vitest?](https://towardsdev.com/testing-a-react-application-what-is-vitest-cef45ce0e75f?source=rss-d38c5015f77c------2)
 - [Testing a React Application: Setting everything up](https://blog.bitsrc.io/testing-a-react-application-setting-everything-up-ab474e7b6c5f?source=rss-d38c5015f77c------2)
