@@ -25,7 +25,7 @@ I'm Diego, a Senior Frontend Developer from <b>Bogotá, Colombia</b>
 <!-- BLOG-POST-LIST:START -->
 - [Testing a React Application: Creating a Unit Test](https://medium.com/@diballesteros/testing-a-react-application-creating-a-unit-test-8cc2bd049a22?source=rss-d38c5015f77c------2)
 - [Testing a React Application: What is Vitest?](https://towardsdev.com/testing-a-react-application-what-is-vitest-cef45ce0e75f?source=rss-d38c5015f77c------2)
-- [Testing a React Application: Setting everything up](https://blog.bitsrc.io/testing-a-react-application-setting-everything-up-ab474e7b6c5f?source=rss-d38c5015f77c------2)
+- [Testing a React Application: Setting Everything Up](https://blog.bitsrc.io/testing-a-react-application-setting-everything-up-ab474e7b6c5f?source=rss-d38c5015f77c------2)
 - [Testing a React Application: The Modern Approach](https://levelup.gitconnected.com/testing-a-react-application-the-modern-approach-9f9ccef4dae5?source=rss-d38c5015f77c------2)
 - [How to migrate Create-React-App to React version 18](https://levelup.gitconnected.com/how-to-migrate-create-react-app-to-react-version-18-6ce5060da224?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
