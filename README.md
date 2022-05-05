@@ -23,7 +23,7 @@ I'm Diego, a Senior Frontend Developer from <b>Bogotá, Colombia</b>
 
 # ✍ Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing a React Application Integrating MSW with Vitest](https://medium.com/@diballesteros/testing-a-react-application-integrating-msw-with-vitest-a9542defb1c0?source=rss-d38c5015f77c------2)
+- [Testing a React Application Integrating MSW with Vitest](https://blog.devgenius.io/testing-a-react-application-integrating-msw-with-vitest-a9542defb1c0?source=rss-d38c5015f77c------2)
 - [Testing a React Application: Creating a Unit Test](https://medium.com/@diballesteros/testing-a-react-application-creating-a-unit-test-8cc2bd049a22?source=rss-d38c5015f77c------2)
 - [Testing a React Application: What is Vitest?](https://towardsdev.com/testing-a-react-application-what-is-vitest-cef45ce0e75f?source=rss-d38c5015f77c------2)
 - [Testing a React Application: Setting Everything Up](https://blog.bitsrc.io/testing-a-react-application-setting-everything-up-ab474e7b6c5f?source=rss-d38c5015f77c------2)
