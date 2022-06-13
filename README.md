@@ -23,11 +23,11 @@ I'm Diego, a Senior Frontend Developer from <b>Bogotá, Colombia</b>
 
 # ✍ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing a React application updating to Cypress 10](https://medium.com/@diballesteros/testing-a-react-application-updating-to-cypress-10-838f5c31b137?source=rss-d38c5015f77c------2)
 - [Testing a React Application Creating a Cypress Test](https://medium.com/@diballesteros/testing-a-react-application-creating-a-cypress-test-d864e8666a09?source=rss-d38c5015f77c------2)
 - [JavaScript LeetCode Valid Anagram](https://medium.com/@diballesteros/javascript-leetcode-valid-anagram-557659378372?source=rss-d38c5015f77c------2)
 - [Testing a React Application Setting up Cypress](https://medium.com/@diballesteros/testing-a-react-application-setting-up-cypress-489dad08c29f?source=rss-d38c5015f77c------2)
 - [JavaScript LeetCode Best Time to Buy and Sell Stock](https://medium.com/@diballesteros/javascript-leetcode-best-time-to-buy-and-sell-stock-5243354472f8?source=rss-d38c5015f77c------2)
-- [JavaScript LeetCode Contains Duplicate](https://medium.com/@diballesteros/javascript-leetcode-contains-duplicate-8d5846a1c04?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Page
