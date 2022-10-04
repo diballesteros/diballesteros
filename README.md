@@ -23,11 +23,11 @@ I'm Diego, a Senior Frontend Developer from <b>Bogotá, Colombia</b>
 
 # ✍ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to migrate Zustand from Version 3 to 4](https://medium.com/@diballesteros/how-to-migrate-zustand-from-version-3-to-4-e50357c9ed34?source=rss-d38c5015f77c------2)
 - [Dealing with burnout as a programmer](https://medium.com/@diballesteros/dealing-with-burnout-as-a-programmer-b9b9d79950fc?source=rss-d38c5015f77c------2)
 - [Testing a React application updating to Cypress 10](https://medium.com/@diballesteros/testing-a-react-application-updating-to-cypress-10-838f5c31b137?source=rss-d38c5015f77c------2)
 - [Testing a React Application Creating a Cypress Test](https://medium.com/@diballesteros/testing-a-react-application-creating-a-cypress-test-d864e8666a09?source=rss-d38c5015f77c------2)
 - [JavaScript LeetCode Valid Anagram](https://medium.com/@diballesteros/javascript-leetcode-valid-anagram-557659378372?source=rss-d38c5015f77c------2)
-- [Testing a React Application Setting up Cypress](https://medium.com/@diballesteros/testing-a-react-application-setting-up-cypress-489dad08c29f?source=rss-d38c5015f77c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Page
