@@ -23,11 +23,11 @@ I'm Diego, a Senior Frontend Developer from <b>Bogotá, Colombia</b>
 
 # ✍ Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to set up Bun on a Windows Computer](https://medium.com/@diballesteros/how-to-set-up-bun-on-a-windows-computer-9228ec9da87?source=rss-d38c5015f77c------2)
-- [Testing a React Application Working with Codecov](https://blog.devgenius.io/testing-a-react-application-working-with-codecov-bb08277a18b5?source=rss-d38c5015f77c------2)
-- [Testing a React Application Instrumenting the codebase](https://medium.com/@diballesteros/testing-a-react-application-instrumenting-the-codebase-ddab8703d706?source=rss-d38c5015f77c------2)
-- [How to migrate Zustand from Version 3 to 4](https://medium.com/@diballesteros/how-to-migrate-zustand-from-version-3-to-4-e50357c9ed34?source=rss-d38c5015f77c------2)
-- [Dealing with burnout as a programmer](https://medium.com/@diballesteros/dealing-with-burnout-as-a-programmer-b9b9d79950fc?source=rss-d38c5015f77c------2)
+- [How to set up Bun on a Windows Computer](https://dev.to/diballesteros/how-to-set-up-bun-on-a-windows-computer-251d)
+- [Testing a React Application Working with Codecov](https://dev.to/diballesteros/testing-a-react-application-working-with-codecov-55n)
+- [Testing a React Application Instrumenting the codebase](https://dev.to/diballesteros/testing-a-react-application-instrumenting-the-codebase-1nj9)
+- [How to migrate Zustand from Version 3 to 4](https://dev.to/diballesteros/how-to-migrate-zustand-from-version-3-to-4-548b)
+- [Dealing with Burnout as a Programmer](https://dev.to/diballesteros/dealing-with-burnout-as-a-programmer-5ana)
 <!-- BLOG-POST-LIST:END -->
 
 # 🐱‍👤 Web Page
